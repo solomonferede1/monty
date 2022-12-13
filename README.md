@@ -43,5 +43,8 @@ Line numbers always start at 1
 - If you can’t malloc anymore, print the error message ```Error: malloc failed```, followed by a new line, and exit with status ```EXIT_FAILURE```.
 - You have to use ```malloc`` and ```free``` and are not allowed to use any other function from man malloc (realloc, calloc, …)
 
+## Authors
+- **Solomon Ferede - solomonf1227@gmail.com** and
+- **Mesfin Fikrea - https://github.com/mesfik**
 ## Tasks
 - Implement the ```push``` and ```pall``` opcodes.
