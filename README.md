@@ -1,7 +1,7 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 ```C``` ```Group project``` ```Algorithm``` ```Data structure```
 
-**Group project on C programming**
+**Group project on C programming at ALX software engineering**
 By
 - **Solomon Ferede - solomonf1227@gmail.com** and
 - **Mesfin Fikrea - https://github.com/mesfik**
