@@ -46,5 +46,14 @@ Line numbers always start at 1
 ## Authors
 - **Solomon Ferede - solomonf1227@gmail.com** and
 - **Mesfin Fikrea - https://github.com/mesfik**
-## Tasks
-- Implement the ```push``` and ```pall``` opcodes.
+
+## Files included in the repo
+- README.md - Description about the project.
+- Monty.h - Header file containing the prototype of the function and structure defination.
+- monty.c - main function  - reading file from command line
+- error_handler.c - handle the error and rint it to stderr
+- functions_on_stack.c - File containing functions performed on stuck elemets
+- operation_on_stuck_element.c - A file containg functions performing swap element, addation,.... on elements of stuck
+- parse.c- File containg of functions used to open, read and interpret the opcode
+stack_operation.c - File containg of functions used to push, pall operation
+string_handle.c - handle the strings in stack
